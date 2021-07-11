@@ -20,4 +20,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="첫번째 버튼" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="두번째 버튼" />
 </LinearLayout>
