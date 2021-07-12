@@ -26,4 +26,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="두번째 버튼" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="세번째 버튼" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="네번째 버튼" />
 </LinearLayout>
